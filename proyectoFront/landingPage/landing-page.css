@@ -1,0 +1,1382 @@
+.landing-page-container {
+  min-height: 100vh;
+}
+.landing-page-landing-page {
+  width: 100%;
+  height: 1623px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-unsplash-orz90t6o0e4 {
+  top: 86px;
+  left: 0px;
+  width: 2176px;
+  height: 864px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 86px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-easy-eat32defi1 {
+  top: 16px;
+  left: 50px;
+  width: 69px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-login-register {
+  top: 16px;
+  right: 50px;
+  width: 341px;
+  height: 51px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.landing-page-iniciarsesion {
+  top: 0px;
+  left: 0px;
+  width: 169px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 50px;
+  transition: all 300ms;
+  background-color: #599938;
+  box-shadow: 4px 5px #1a3010;
+}
+.landing-page-iniciarsesion:hover {
+  background-color: #35611f;
+  box-shadow: 4px 5px #0a1306;
+}
+.landing-page-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 51px;
+  position: absolute;
+}
+.landing-page-text {
+  left: 36px;
+  color: var(--dl-color-default-blanco);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-vector {
+  top: 16px;
+  left: 15px;
+  width: 21px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-registro {
+  top: 0px;
+  right: 0px;
+  width: 140px;
+  height: 53px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: #242424;
+  box-shadow: 4px 5px #0e0e0e;
+  border-radius: 50px;
+  transition: all 300ms;
+}
+.landing-page-registro:hover{
+  background-color: #4d4d4d;
+  box-shadow: 4px 5px #2b2b2b;
+}
+.landing-page-text02 {
+  left: 0px;
+  top: 0px;
+  color: var(--dl-color-default-blanco);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-buscadorrestaurantes {
+  top: 244px;
+  left: 0px;
+  right: 0px;
+  width: 960px;
+  height: 545px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle6 {
+  left: -10px;
+  width: 100%;
+  bottom: -1px;
+  height: 545px;
+  opacity: 0.90;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+  box-shadow: 0 0 15px 2px black;
+}
+.landing-page-text04 {
+  top: 58px;
+  left: 230px;
+  color: rgba(255, 119, 55, 1);
+  width: 500px;
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700px;
+  line-height: 100px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.landing-page-rectangle7 {
+  top: 412px;
+  left: 42px;
+  width: 877px;
+  height: 80px;
+  position: absolute;
+}
+.landing-page-text06 {
+  top: 314px;
+  left: 208px;
+  color: rgba(64, 73, 59, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-component2 {
+  top: 416px;
+  left: 566px;
+  width: 349px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: #ff7737;
+  transition: all 300ms;
+}
+.landing-page-component2:hover{
+  background-color: #c04208;
+}
+.landing-page-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 349px;
+  height: 72px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-text08 {
+  top: 11.55555534362793px;
+  left: 41.91899490356445px;
+  color: var(--dl-color-default-blanco);
+  width: 265px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text10 {
+  top: 1000px;
+  left: 0px;
+  color: var(--dl-color-default-negroverde);
+  right: 0px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 100px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-restaurantes {
+  top: 1150px;
+  right: 0px;
+  width: 100%;
+  height: 349.828125px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+}
+.landing-page-xera {
+  top: 0px;
+  left: 0px;
+  right: 75%;
+  width: 306px;
+  height: 348px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 306px;
+  height: 348px;
+  position: absolute;
+}
+.landing-page-text12 {
+  top: 15px;
+  left: 0px;
+  color: rgba(126, 152, 112, 1);
+  right: 0px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-ellipse6 {
+  top: 18.59541893005371px;
+  left: 262px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-component4 {
+  top: 211px;
+  left: 46px;
+  width: 213px;
+  height: 25.179964065551758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  bottom: 0px;
+  height: 13px;
+  margin: auto;
+  position: absolute;
+}
+.landing-page-text14 {
+  top: 7px;
+  left: 21.128572463989258px;
+  color: rgba(0, 0, 0, 1);
+  width: 192px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 400;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text16 {
+  top: 157.4197998046875px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-reservar {
+  top: 267px;
+  left: 26px;
+  width: 255px;
+  height: 52.497215270996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 255px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-text18 {
+  top: 3px;
+  left: 30px;
+  color: var(--dl-color-default-blanco);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-image2 {
+  top: 59px;
+  left: 108px;
+  width: 90px;
+  height: 79px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.landing-page-elrincon {
+  top: 0px;
+  left: 0px;
+  right: 25%;
+  width: 306px;
+  height: 348px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle111 {
+  top: 0px;
+  left: 0px;
+  width: 306px;
+  height: 348px;
+  position: absolute;
+}
+.landing-page-text20 {
+  top: 15px;
+  left: 0px;
+  color: rgba(126, 152, 112, 1);
+  right: 0px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-ellipse61 {
+  top: 18.59541893005371px;
+  left: 262px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-component41 {
+  top: 211px;
+  left: 46px;
+  width: 213px;
+  height: 25.179964065551758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 10px;
+  bottom: 0px;
+  height: 13px;
+  margin: auto;
+  position: absolute;
+}
+.landing-page-text22 {
+  top: 7px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 192px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 400;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text24 {
+  top: 157.4197998046875px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-reservar1 {
+  top: 267px;
+  left: 26px;
+  width: 255px;
+  height: 52.497215270996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle121 {
+  top: 0px;
+  left: 0px;
+  width: 255px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-text26 {
+  top: 3px;
+  left: 30px;
+  color: var(--dl-color-default-blanco);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-image3 {
+  top: 64px;
+  left: 47px;
+  width: 217px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-mcdonalds {
+  top: 1.4375px;
+  left: 25%;
+  right: 0px;
+  width: 306px;
+  height: 348.3968200683594px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle112 {
+  top: 0px;
+  left: 0px;
+  width: 306px;
+  height: 348px;
+  position: absolute;
+}
+.landing-page-text28 {
+  top: 15px;
+  left: 0px;
+  color: var(--dl-color-default-rojo);
+  right: 0px;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-ellipse62 {
+  top: 18.616621017456055px;
+  left: 262px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-component42 {
+  top: 211.24061584472656px;
+  left: 46px;
+  width: 213px;
+  height: 25.20867347717285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-vector3 {
+  top: 6px;
+  left: 0px;
+  right: 250px;
+  width: 10px;
+  height: 13px;
+  margin: auto;
+  position: absolute;
+}
+.landing-page-text30 {
+  top: 7px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 192px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 400;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text32 {
+  top: 157.59930419921875px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-reservar2 {
+  top: 267px;
+  left: 26px;
+  width: 255px;
+  height: 52.497215270996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle122 {
+  top: 0px;
+  left: 0px;
+  width: 255px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-text34 {
+  top: 3px;
+  left: 30px;
+  color: var(--dl-color-default-blanco);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-image4 {
+  top: 61.069557189941406px;
+  left: 106px;
+  width: 93px;
+  height: 76px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 100px;
+}
+.landing-page-goiko {
+  top: 1.4375px;
+  left: 75%;
+  right: 0px;
+  width: 306px;
+  height: 348.3968200683594px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle113 {
+  top: 0px;
+  left: 0px;
+  width: 306px;
+  height: 348px;
+  position: absolute;
+}
+.landing-page-text36 {
+  top: 15px;
+  left: 0px;
+  color: rgba(126, 152, 112, 1);
+  right: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-ellipse63 {
+  top: 18.616621017456055px;
+  left: 262px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-component43 {
+  top: 211.24061584472656px;
+  left: 46px;
+  width: 213px;
+  height: 25.20867347717285px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-vector4 {
+  top: 6px;
+  left: 0px;
+  right: 250px;
+  width: 10px;
+  height: 13px;
+  margin: auto;
+  position: absolute;
+}
+.landing-page-text38 {
+  top: 7px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 192px;
+  bottom: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 400;
+  line-height: 100%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-text40 {
+  top: 157.59930419921875px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 258px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-reservar3 {
+  top: 267px;
+  left: 26px;
+  width: 255px;
+  height: 52.497215270996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle123 {
+  top: 0px;
+  left: 0px;
+  width: 255px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-text42 {
+  top: 3px;
+  left: 30px;
+  color: var(--dl-color-default-blanco);
+  width: 197px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landing-page-image5 {
+  top: 59px;
+  left: 115px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.landing-page-piedepgina {
+  top: 1575px;
+  left: 0px;
+  width: 100%;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landing-page-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 51px;
+  position: absolute;
+  border-color: transparent;
+}
+.landing-page-text44 {
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  width: 202px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Gudea;
+  font-weight: 700;
+  line-height: 50px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+#buscadorRes{
+  position: relative;
+  width: 522px;
+  height: 79px;
+  top: 412px;
+  left: 43px;
+  background-color: transparent;
+  border: transparent;
+  border-radius: 50px;
+  font-size: 20px;
+  z-index: 1;
+}
+
+.restaurantes {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 95%;
+  margin: 0px auto;
+  position: absolute;
+  height: fit-content;
+  background-color: rgba(49, 78, 35, 0.2);
+  border-radius: 40px;
+  overflow: visible;
+  display: grid;
+  grid-auto-flow: column;
+}
+.overFlow{
+  overflow-x: auto;
+}
+.restaurante{
+  border-radius: 30px;
+  background-color: rgba(228, 227, 217, 0.6);
+  box-shadow: 0 0 5px 3px #888888;
+  width: 350px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 350px;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align: center;
+  padding: 10px;
+}
+.numeroMesas{
+  font-size: 13px;
+}
+.disponibilidad{
+  position: relative;
+  left: 73%;
+  top: -4%;
+}
+.logoRestaurante{
+  height: 120px;
+  margin: 0px auto;
+}
+.nombreRestaurante{
+  margin-top: 10px;
+}
+.ubicacion{
+  position: relative;
+  left: 33%;
+  top: 5.6%;
+}
+.direccionRestaurante{
+  margin-top: 2px;
+  margin-bottom: 7px;
+}
+.horarioRestaurante{
+  margin-bottom: 7px;
+}
+.telefonoRestaurante{
+  margin-bottom: 7px;
+}
+.reservar{
+  
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #81d957;
+  box-shadow: 2px 3px #61b33b;
+  font-weight: bold;
+  color: white;
+  transition: 300ms all;
+}
+.reservar:hover{
+  background-color: #487c30;
+  box-shadow: 2px 3px #27421a;
+}
+
+
+
+
+@media(max-width: 1600px) {
+  .landing-page-unsplash-orz90t6o0e4 {
+    width: 1600px;
+    height: 859px;
+  }
+  .landing-page-text44 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}
+@media(max-width: 1440px) {
+  .landing-page-unsplash-orz90t6o0e4 {
+    width: 1440px;
+    height: 843px;
+  }
+  .landing-page-text44 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}
+@media(max-width: 991px) {
+  .landing-page-landing-page{
+    height: 1370px;
+  }
+  .landing-page-piedepgina {
+    top: 1320px;
+  }
+  .landing-page-unsplash-orz90t6o0e4 {
+    width: 991px;
+    height: 640px;
+  }
+  .landing-page-buscadorrestaurantes {
+    top: 130px;
+    width: 800px;
+  }
+  .landing-page-rectangle6 {
+    left: 0px;
+  }
+  .landing-page-text04 {
+    top: 40px;
+    left: 0px;
+    right: 0px;
+    width: 400px;
+    margin: auto;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .landing-page-rectangle7 {
+    top: 400px;
+    width: 700px;
+  }
+  .landing-page-text06 {
+    top: 275px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-component2 {
+    top: 410px;
+    left: 430px;
+    right: 0px;
+    width: 250px;
+    height: 60px;
+    margin: auto;
+  }
+  .landing-page-rectangle8 {
+    width: 100%;
+    height: 100%;
+  }
+  .landing-page-text08 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 60px;
+  }
+  .landing-page-text10 {
+    top: 750px;
+    font-size: 40px;
+  }
+  .landing-page-restaurantes {
+    top: 900px;
+  }
+  .landing-page-xera {
+    left: 0px;
+    right: 50%;
+    margin: auto;
+  }
+  .landing-page-elrincon {
+    left: 50%;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-mcdonalds {
+    top: 400px;
+    left: 0px;
+    right: 50%;
+    margin: auto;
+  }
+  .landing-page-goiko {
+    top: 400px;
+    left: 50%;
+    right: 0px;
+    margin: auto;
+  }
+
+  .landing-page-text44 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+
+  #buscadorRes{
+    width: 446px;
+    height: 64px;
+    top: 408px;
+    left: 42px; 
+  }
+}
+@media(max-width: 767px) {
+  .landing-page-unsplash-orz90t6o0e4 {
+    top: 83px;
+    left: -136px;
+  }
+  .landing-page-buscadorrestaurantes {
+    width: 700px;
+  }
+  .landing-page-text04 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-rectangle7 {
+    width: 600px;
+  }
+  .landing-page-component2 {
+    top: 415px;
+    left: 330px;
+    width: 250px;
+    height: 50px;
+  }
+  .landing-page-text08 {
+    top: -5px;
+    width: 100%;
+    bottom: 0px;
+    margin: auto;
+  }
+  .landing-page-text10 {
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    font-size: 28px;
+  }
+  .landing-page-text44 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  #buscadorRes{
+    width: 345px;
+    height: 54px;
+    top: 413px;
+    left: 42px;
+    font-size: 15px;
+  }
+}
+@media(max-width: 479px) {
+  .landing-page-piedepgina {
+    top: 1105px;
+  }
+  .landing-page-landing-page{
+    height: 1155px;
+  }
+
+  .landing-page-vector{
+    left: 10px;
+    top: 14px;
+    width: 18px;
+  }
+
+  .landing-page-unsplash-orz90t6o0e4 {
+    top: 84px;
+    left: -240px;
+    height: 487px;
+    margin: auto;
+  }
+  .landing-page-login-register {
+    top: 16px;
+    right: 50px;
+    width: 280px;
+    position: absolute;
+  }
+  .landing-page-iniciarsesion {
+    top: 0px;
+    left: 60px;
+    width: 120px;
+    height: 45px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .landing-page-text {
+    left: 10px;
+    line-height: 45px;
+    font-size: 13px;
+  }
+  .landing-page-registro {
+    top: 0px;
+    left: 200px;
+    width: 100px;
+    bottom: 0px;
+    height: 45px;
+    margin: auto;
+  }
+  .landing-page-rectangle10 {
+    top: 0px;
+    bottom: 0px;
+    height: 100%;
+    margin: auto;
+  }
+  .landing-page-text02 {
+    font-size: 13px;
+    line-height: 45px;
+  }
+  .landing-page-buscadorrestaurantes {
+    left: 0px;
+    right: 0px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+  }
+  .landing-page-rectangle6 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    margin: auto;
+  }
+  .landing-page-text04 {
+    width: 300px;
+    font-size: 50px;
+    line-height: 70px;
+  }
+  .landing-page-rectangle7 {
+    top: 275px;
+    left: 0px;
+    right: 0px;
+    width: 350px;
+    margin: auto;
+  }
+  .landing-page-text06 {
+    top: 200px;
+    font-size: 20px;
+  }
+  .landing-page-component2 {
+    top: 300px;
+    left: 198px;
+    right: 0px;
+    width: 150px;
+    height: 30px;
+    margin: auto;
+  }
+  .landing-page-text08 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    font-size: 13px;
+    line-height: 40px;
+  }
+  .landing-page-text10 {
+    top: 575px;
+    font-size: 20px;
+  }
+  .landing-page-restaurantes {
+    top: 700px;
+    height: 1600px;
+    margin-bottom: 228px;
+  }
+  .landing-page-xera {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-rectangle11 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .landing-page-elrincon {
+    top: 400px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-rectangle111 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .landing-page-mcdonalds {
+    top: 800px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-rectangle112 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .landing-page-goiko {
+    top: 1200px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .landing-page-text44 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  #buscadorRes{
+    width: 197px;
+    height: 32px;
+    top: 299px;
+    left: 25px;
+    font-size: 12px;
+  }
+}

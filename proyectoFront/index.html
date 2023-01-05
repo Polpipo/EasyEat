@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Easy Eat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/png" href="imgLogo/logo.png">
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="landingPage/style.css" />
+  </head>
+  <body>
+    <div>
+      <link href="landingPage/landing-page.css" rel="stylesheet" />
+
+      <div class="landing-page-container">
+        <div class="landing-page-landing-page">
+          <img
+            alt="unsplashOrz90t6o0e4218"
+            src="landingPage/public/playground_assets/unsplashorz90t6o0e4218-3w0x-2200w.png"
+            class="landing-page-unsplash-orz90t6o0e4"
+          />
+          <img
+            alt="Rectangle1219"
+            src="landingPage/public/playground_assets/rectangle1219-ab9f-200h.png"
+            class="landing-page-rectangle1"
+          />
+          <a href="landing-page.html"></a>
+          <img
+            alt="EasyEat32defi12712"
+            src="landingPage/public/playground_assets/easyeat32defi12712-fi2s-200h.png"
+            class="landing-page-easy-eat32defi1"
+          />
+          <div class="landing-page-login-register">
+            <a href="loginPage/loginPage.html" id="iniciarSesionGeneral">
+              <button class="landing-page-iniciarsesion" id="btnLogin" style="cursor: pointer;">
+                <span class="landing-page-text"><p>Iniciar sesión</p></span>
+                <img
+                  alt="Vector1226"
+                  src="landingPage/public/playground_assets/vector1226-hfcj.svg"
+                  class="landing-page-vector"
+                />
+              </button>
+            </a>
+              <button class="landing-page-registro" id="btnRegistrar" style="cursor: pointer;" onclick="redirigirRegistro()">
+                <span class="landing-page-text02"><p>Registrarse</p></span>
+              </button>
+            <h1 class = "landing-page-text02" id="nombreUser" style="font-size: 30px;"></h1>
+          </div>
+          <div class="landing-page-buscadorrestaurantes">
+            
+            <img
+              alt="Rectangle6848"
+              src="landingPage/public/playground_assets/rectangle6848-7cmr-600h.png"
+              class="landing-page-rectangle6"
+            />
+            
+            <span class="landing-page-text04">
+              <p>EASY EAT, FAST EAT!</p>
+            </span>
+            <img
+              alt="Rectangle78101"
+              src="landingPage/public/playground_assets/rectangle78101-ewrd.svg"
+              class="landing-page-rectangle7"
+            />
+            
+            <span class="landing-page-text06">
+              <p>Reserva mesa en tu restaurante favorito</p>
+            </span>
+            <form>
+              <input type="text" id="buscadorRes" class="landing-page-text02 textarea" style="text-align:left; color: black;"></input>
+              <button type="submit" class="landing-page-component2" id="btnBuscar" style="cursor: pointer;">
+                <span class="landing-page-text08">
+                  <p>Buscar restaurantes</p>
+                </span>
+              </button>
+            </form>
+          </div>
+          <span class="landing-page-text10">
+            <p>NUESTROS RESTAURANTES FAVORITOS</p>
+          </span>
+          <div class="landing-page-restaurantes">
+            <div class="restaurantes overFlow"></div>
+
+            
+              
+          </div>
+          <div class="landing-page-piedepgina">
+            <img
+              alt="Rectangle133819"
+              src="landingPage/public/playground_assets/rectangle133819-ng6s-200h.png"
+              class="landing-page-rectangle13"
+            />
+            <span class="landing-page-text44">
+              <p>© 2022 Easy Eat SL.</p>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="landingPage/main.js"></script>
+  </body>
+</html>

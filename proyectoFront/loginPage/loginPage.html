@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>Easy Eat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <link rel="icon" type="image/png" href="../imgLogo/logo.png">
+
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Gudea:ital,wght@0,400;0,700;1,400&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div>
+      <link href="./iniciarsesin.css" rel="stylesheet" />
+
+      <div class="iniciarsesin-container">
+        <div class="iniciarsesin-iniciarsesin">
+          <img
+            src="public/playground_assets/fondoregistroylogin6293-b7zu-1300h.png"
+            alt="fondoregistroylogin6293"
+            class="iniciarsesin-fondoregistroylogin"
+          />
+          <div class="iniciarsesin-login">
+            <a href="../index.html">
+              <button id="back" style="cursor: pointer;">
+                <svg viewBox="0 0 1024 1024" class="iniciarsesin-icon" style="z-index: 1;">
+                  <path
+                    d="M854 470v84h-520l238 240-60 60-342-342 342-342 60 60-238 240h520z"
+                  ></path>
+                </svg>
+              </button>
+            </a>
+            
+              
+            <img
+              src="public/playground_assets/rectangle156217-chpg-700w.png"
+              alt="Rectangle156217"
+              class="iniciarsesin-rectangle15"
+            />
+
+            <form>
+              <div class="iniciarsesin-usuario">
+                <span class="iniciarsesin-text11">
+                  <p>Usuario o email:</p>
+                </span>
+                <img
+                  src="public/playground_assets/rectangle196212-ms2d-500w.png"
+                  alt="Rectangle196212"
+                  class="iniciarsesin-rectangle19"
+                />
+                <input type="text" class="textarea" id="usuario" style="z-index: 1;"/>
+              </div>
+
+              <div class="iniciarsesin-contrasea">
+                <span class="iniciarsesin-text13"><p>Contraseña:</p></span>
+                <img
+                  src="public/playground_assets/rectangle19i622-m5hd-500w.png"
+                  alt="Rectangle19I622"
+                  class="iniciarsesin-rectangle191"
+                />
+                <input type="password" class="textarea" id="password" style="z-index: 1;"/>
+              </div>
+  
+              <button type="submit" class="iniciarsesin-iniciarsesion" id="login" style="cursor: pointer;">
+                <img
+                  src="public/playground_assets/rectangle96224-bvrb.svg"
+                  alt="Rectangle96224"
+                  class="iniciarsesin-rectangle9"
+                />
+                <span class="iniciarsesin-text"><p>Iniciar sesión</p></span>
+                <img
+                  src="public/playground_assets/vector6225-ff9z.svg"
+                  alt="Vector6225"
+                  class="iniciarsesin-vector"
+                />
+              </button>
+            </form>
+
+            <span class="iniciarsesin-text04">
+              <p class="iniciarsesin-text05">
+                Al crear la cuenta, aceptas nuestros <a class="iniciarsesin-text06" href="https://www.uber.com/legal/en/document/?name=general-terms-of-use&country=spain&lang=es-es">términos y condiciones</a>.</p>
+              <p class="iniciarsesin-text07">Por favor, lee nuestra
+              <a class="iniciarsesin-text08" href="https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=privacy-notice">política de privacidad</a></p>
+              <p class="iniciarsesin-text09">y nuestra
+              <a class="iniciarsesin-text10" href="https://policies.google.com/terms">política de cookies.</a></p>
+            </span>
+
+            <img
+              src="public/playground_assets/volver6218-sjma.svg"
+              alt="volver6218"
+              class="iniciarsesin-volver"
+            />
+            <a href="../registerPage/registerPage.html">
+              <button class="iniciarsesin-registro" id="registrar" style="cursor: pointer;">
+                <img
+                  src="public/playground_assets/rectangle106225-v3h8-200h.png"
+                  alt="Rectangle106225"
+                  class="iniciarsesin-rectangle10"
+                />
+                <span class="iniciarsesin-text02"><p>Registrarse</p></span>
+              </button>
+            </a>
+            
+          </div>
+          <img
+            src="public/playground_assets/rectangle16295-tr8h-200h.png"
+            alt="Rectangle16295"
+            class="iniciarsesin-rectangle1"
+          />
+          <img
+            src="public/playground_assets/logo6296-ere3-200h.png"
+            alt="logo6296"
+            class="iniciarsesin-logo"
+          />
+          
+          <div class="iniciarsesin-piedepgina">
+            <img
+              src="public/playground_assets/rectangle13i629-pd8-200h.png"
+              alt="Rectangle13I629"
+              class="iniciarsesin-rectangle13"
+            />
+            <span class="iniciarsesin-text15">
+              <span>© 2022 Easy Eat SL.</span>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
